@@ -5,7 +5,6 @@ from tensorflow.python.framework import graph_io
 import argparse
 
 # 필요한 API 불러오기
-import efficientnet.tfkeras
 
 def get_argparse():
     parser = argparse.ArgumentParser()
